@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geejay Damasco</h1>
-<h3 align="center">Business Analyst and Senior SQA that is looking to work on frontend development</h3>
+<h3 align="center">Business Analyst CSPO® and Senior SQA that is looking to work on frontend development</h3>
 
 - 🌱 I’m currently learning **MongoDB, Express, NodeJS, and React framework, as well as automation framework**
 
